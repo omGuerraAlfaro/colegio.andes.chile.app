@@ -1,0 +1,7 @@
+{
+  "name": "colegio.andes.chile.app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
